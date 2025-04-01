@@ -1,7 +1,7 @@
 import os
 import sys
 
-directorio_colab = '/content/drive/My Drive/tu_directorio'
+directorio_colab = '/content/drive/My Drive'
 directorio_local = os.getcwd()
 
 def montardrive():
